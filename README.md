@@ -1,6 +1,9 @@
-# Python Library Starter
+# QQ-Plot 2 Sample
+Just a gist to include the custom code to draw a qq-plot in python when dealing with a "two sample problem".
+This means when u try to plot/fit a data sample against another data sample without knowing the pdf of the theoretical quantiles.
 
-Just a gist to include the custom code to draw a qq-plot in python.
+Example of the current qq-plot result:
+![qq-plot-example](./assets/qq_plot_example.png)
 
 ## Prerequisites
 venv:
